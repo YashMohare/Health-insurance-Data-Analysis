@@ -20,6 +20,14 @@ These visual displays of information communicate complex data relationships and 
 ![image](https://github.com/YashMohare/Health-insurance-Data-Analysis/assets/160584848/cacaabfc-3960-47cf-bb14-c3ea2e271c37)
 
 
+
+
+
+Step 4:Powerful Insights:
+
+Let's Find Out....
+
+
 Question 1]
 
 we want to know insurance charges according to age? Let's go and find it ..i'm using boxplot function to have comparision between age~charges.

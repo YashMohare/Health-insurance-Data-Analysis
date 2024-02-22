@@ -32,13 +32,9 @@ Result Below:
 
 Question 2]
 
-To Find : Which Regions have highest charges according to age?
+To Find :charges according to BMI(Body Mass Index)?
 
 Solution:
-
-
-
-
 
 
 

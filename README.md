@@ -36,7 +36,7 @@ Result Below:
 
    ![image](https://github.com/YashMohare/Health-insurance-Data-Analysis/assets/160584848/cd9a4b7e-b908-4d75-a6c2-47da31650da0)
    
-
+  
 
 Question 2]
 
@@ -48,6 +48,34 @@ Solution:
 
 ![image](https://github.com/YashMohare/Health-insurance-Data-Analysis/assets/160584848/16d45291-81d2-49ce-9cf3-ea6d80c79653)
 
+Question 3]
+
+To Find:charges along with region and age?
+
+Solution:
+
+![image](https://github.com/YashMohare/Health-insurance-Data-Analysis/assets/160584848/9add86fe-3e17-49b3-a70e-866da9341717)
+
+
+![image](https://github.com/YashMohare/Health-insurance-Data-Analysis/assets/160584848/0ebaf3d1-ec51-47ae-b168-c1fe95e742ff)
+
+
+
+
+
+
+
+
+
+
+1.1 smooth 
+
+![image](https://github.com/YashMohare/Health-insurance-Data-Analysis/assets/160584848/0b19f605-e990-4f41-8927-f875fef2e067)
+
+
+2.2 
+
+![image](https://github.com/YashMohare/Health-insurance-Data-Analysis/assets/160584848/a4196aaf-10fc-47a0-ab68-8cbcca34da2e)
 
 
 

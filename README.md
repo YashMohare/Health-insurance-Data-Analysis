@@ -24,6 +24,8 @@ Question 1]
 
 we want to know insurance charges according to age? Let's go and find it ..i'm using boxplot function to have comparision between age~charges.
 Result Below:
+
+
    ![image](https://github.com/YashMohare/Health-insurance-Data-Analysis/assets/160584848/cd9a4b7e-b908-4d75-a6c2-47da31650da0)
    
 

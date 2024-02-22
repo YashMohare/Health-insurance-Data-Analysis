@@ -16,6 +16,7 @@ performed on data that help describe facts, detect patterns, develop explanation
 Step 3:Data Visulization Using( R Programming languages):
 Data visualization is the representation of data through use of common graphics, such as charts, plots, infographics, and even animations. 
 These visual displays of information communicate complex data relationships and data-driven insights in a way that is easy to understand.
+
 ![image](https://github.com/YashMohare/Health-insurance-Data-Analysis/assets/160584848/cacaabfc-3960-47cf-bb14-c3ea2e271c37)
 
 

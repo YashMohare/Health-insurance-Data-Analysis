@@ -60,6 +60,15 @@ Solution:
 ![image](https://github.com/YashMohare/Health-insurance-Data-Analysis/assets/160584848/0ebaf3d1-ec51-47ae-b168-c1fe95e742ff)
 
 
+question 4]
+To Find: In which area the smoker are more?
+
+Solution:
+
+
+
+
+
 
 
 
